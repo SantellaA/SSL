@@ -1,5 +1,6 @@
 # 00-CHelloWorld
 
+Compilador: gcc (Ubuntu 13.3.0-6ubuntu2~24.04)
 Version del compilador: 13.3.0
 version de C combatibles: 
 	-std=c++11
@@ -9,7 +10,7 @@ version de C combatibles:
 	-std=c++20
 	-std=c++23
 	-std=c++2b
-	-std=c2x
+	-std=c2x <== utilizada
 	-std=c90
 	-std=c++98
 	-std=c99
